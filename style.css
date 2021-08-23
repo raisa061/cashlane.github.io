@@ -1846,10 +1846,11 @@ button.cale-btn:hover{
     transition: 0.4s;
     border: 1px solid #fff;
 }
-.overview-content .video-play.vid-zone i {
+.overview-content .video-play.vid-zone .i {
     color: #FEBD59;
     font-size: 28px;
     line-height: 78px;
+    margin-top: 25px;
 }
 .overview-content .video-play.vid-zone:hover{
     background: #fff;
