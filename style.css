@@ -711,6 +711,26 @@ div#preloader {
 /*    background-size: cover;*/
 /*    opacity: 0.1;*/
 /*}*/
+.view-text p{
+    color: #3f3f3f;
+}
+.wel-content1 p {
+    margin-bottom: 0px;
+}
+.wel-content1 p {
+    display: inline-block;
+    font-size: 15px;
+    margin-bottom: 0;
+    padding: 0 0 10px;
+    font-weight: 400;
+    color: #3f3f3f;
+}
+.wel-content1 p span {
+    color: #0b0b0b;
+    font-size: 15px;
+    font-weight: 700;
+    padding-right: 10px;
+}
 .main-wel {
     padding: 20px 0px 0px;
 }
