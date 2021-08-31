@@ -1963,6 +1963,10 @@ button.cale-btn:hover{
     position: relative;
     overflow: hidden;
 }
+.single-member .team-img img{
+    height: 350px;
+    width: 260px;
+}
 .single-member .team-img a {
     display: block;
 }
