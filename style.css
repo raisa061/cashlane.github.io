@@ -509,7 +509,7 @@ div#preloader {
 /*----------------------------------------*/
 .mobile-menu-area {
     background: #fdfcfc none repeat scroll 0 0;
-    padding: 10px 0px ;
+    padding: 15px 0px ;
 }
 .mean-container .mean-bar::after {
     content: "";
@@ -2827,6 +2827,21 @@ span.email-notes{
     background: #FEBD59;
     right: 0;
     margin: auto;
+}
+.title_logo{
+    color: white;
+    font-weight: 700;
+}
+.title_logo1{
+    color: black;
+    font-weight: 700;
+}
+.title_logof{
+    color: black;
+    display: block;
+    margin: -20px 0px 15px 15px;
+    font-size: 25px;
+    font-weight: 700;
 }
 /*----------------------------------------*/
 /*  23.	Animation  CSS
